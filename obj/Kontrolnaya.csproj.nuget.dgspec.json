@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\den-g\\OneDrive\\Рабочий стол\\Бизнес-Аналитик\\Kontrolnaya\\Kontrolnaya.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\den-g\\OneDrive\\Рабочий стол\\Бизнес-Аналитик\\Kontrolnaya\\Kontrolnaya.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\den-g\\OneDrive\\Рабочий стол\\Бизнес-Аналитик\\Kontrolnaya\\Kontrolnaya.csproj",
+        "projectName": "Kontrolnaya",
+        "projectPath": "C:\\Users\\den-g\\OneDrive\\Рабочий стол\\Бизнес-Аналитик\\Kontrolnaya\\Kontrolnaya.csproj",
+        "packagesPath": "C:\\Users\\den-g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\den-g\\OneDrive\\Рабочий стол\\Бизнес-Аналитик\\Kontrolnaya\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\den-g\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

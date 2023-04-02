@@ -1,0 +1,15 @@
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.exe
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.deps.json
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.runtimeconfig.json
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.dll
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\bin\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfoInputs.cache
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.AssemblyInfo.cs
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.dll
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\refint\Kontrolnaya.dll
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.pdb
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\Kontrolnaya.genruntimeconfig.cache
+C:\Users\den-g\OneDrive\Рабочий стол\Бизнес-Аналитик\Kontrolnaya\obj\Debug\net6.0\ref\Kontrolnaya.dll
